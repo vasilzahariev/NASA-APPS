@@ -1,0 +1,829 @@
+1.Acinonyx jubatus /Cheetah| - Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau , Kenya, Lesotho, Libya, Malawi, Mali, Mauritania, Morocco,  , Niger, , Nigeria, Republic of Congo, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe, India, Iran, Iraq, Syria, Oman, Saudi Arabia, Israel, Afghanistan, Pakistan, Turkmenistan, Yemen, UAE, Qatar
+
+2.Canis rufus /Red wolf|    - USA
+
+3.Pardofelis badia /Bay cat|   - Brunei, Malaysia, Indonesia
+
+4.Diplogale hosei /Hose's palm civet |  - Brunei, Malaysia, Indonesia
+
+5.Felis nigripes  /Black-footed cat |  - South Africa, Namibia, Angola, Botswana, Zimbabwe
+
+6.Galidictis grandidieri /Grandidier's mongoose |    - Madagascar
+
+7.Lontra provocax /Southern river otter |- Chile, Argentina
+
+8.Lycaon pictus /African wild dog | - Algeria, Mauritania, Benin, Burkina Faso, Gambia, Ghana, Guinea, C?te d'Ivoire, Mali, Niger, Nigeria, Senegal, Sierra Leone,Togo, Cameroon, Central African Republic, Chad, Republic of the Congp, Equatorial Guinea, Gabon, Burundi, Djbouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, Sudan, South Sudan, Tanzania, Uganda, Angola, Botswana, Malawi, Mozambique, Namibia, South Africa, Swaziland, Zambia, Zimbabwe
+
+9.Lynx pardinus / Iberian lynx | - Spain, Portugal
+
+10.Mungotictis decemlineata / Narrow-striped mongoose| - Madagascar
+
+11.Mustela lutreola /European mink|  - Russia, Germany, Switzerland, Poland, Hungary, Czech republik, Slovakia, Bulgaria, Finland, Latvia, Lithuania, Estonia, Ukraine, Moldova, Romania, France, Spain, Belarus
+
+12.Mustela nigripes / Black-footed ferret| - Canada, USA, Mexico
+
+13.Procyon pygmaeus / Cozumel raccoon | - Mexico
+
+14.Panthera uncia / Snow leopard| - Russia, Mongolia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Afghanistan, Pakistan, India, Nepal,China, Bhutan
+
+15.Urocyon littoralis /Island fox | - USA
+
+16.Ursus maritimus /Polar bear| - Russia, USA, Canada, Norway, Greenland
+
+17.Vormela peregusna /Marbled polecat| -  Russia, China, Bulgarua, Georgia, Turkey, Romania, Lebanon, Syria, Jordan, Israel, Palestine, Armenia, Azerbajan, Iran, Afhanistan, Pakistan, Serbia, Macedonia, Albania, Bostna and Heregovina, Mongolia, Kazakhstan, Egypt
+
+18.Bdeogale omnivora / Bdeogale| - Kenya, Tanzania, Uganda, Angola, Cameroon, Republicof Congo, Equatorial Guinea, Gabon, Democratic Republic of Congo, Nigeria
+
+19.Addax nasomaculatus / Addax | - Algeria, Egypt, Libya, Sudan, Morocco, Tunisia, Chad, Mauritania, Niger 
+
+20.Ammodorcas clarkei / Dibatag| - Egypt, Ethiopia, Somalia, Sudan
+
+21.Ammotragus lervia / Barbary sheep| - USA . Hawaii, Algeria,Tunisia, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, Spain, Mexico, Canary Island
+
+22.Axis calamianensis / Calamian deer| - Philippines
+
+23.Axis kuhlii / Bawean deer | - Indonesia
+
+24.Babyrousa babyrussa  / Buru babirusa| - Indonesia
+
+25.Bison bonasus  /Bison| -  Canada , USA, Poland, Belarus, Lithuania, Ukraine, Romania, Russia, Slovakia, Latvia, Kyrgyzstan, Germany, Moldova, Spain, Denmark, Bulgaria, Czech Republic
+
+26.Blastocerus dichotomus / Marsh deer | -  Argentina, Bolivia, Peru, Brazil, Uruguay, Paraguay
+
+27.Bos sauveli / Kouprey | - Cambodia, Laos, Thailand, Vietnam
+
+28.Bubalus depressicornis / Lowland anoa  | - Indonesia
+
+29.Bubalus quarlesi / Mountain anoa | - Indonesia
+
+30.Capra aegagrus  / Wild goat | - Afghanistan, Armenia, Azerbaijan, Cyprus, Georgia, Greece, Iran, Iraq, Ca Verde, India, Lebanon, Oman, Pakistan, Russia, Syria, Turkey, Turkmenistan
+
+31.Capra caucasica / Caucasian turs | - Georgia, Russia
+
+32.Capra nubiana / Nubian ibex | - Algeria, Israel, Jordan, Saudi Arabia, Oman, Egypt, Ethiopia, Eritrea, Yemen, Lebanon, Sudan
+
+33.Catagonus wagneri /Chacoan peccary| - Paraguay, Bolivia, Argentina
+
+34.Cephalophus adersi /Aders' duiker| - Zanzibar, Kenya
+
+35.Cephalophus spadix /Abbott's duiker| - Tanzania
+ 
+36.Rucervus duvaucelii / Barasingha |  - India, Nepal, Pakistan, Bangladesh
+
+37.Rusa alfredi /Visayan spotted deer| - Philippines
+
+38.Dama mesopotamica / Persian fallow deer| - Iran, Iraq, Israel, Jordan, Lebanon, Syria, Turkey
+
+39.Beatragus hunteri / Hirola| - Kenya, Somalia
+
+40.Dorcatragus megalotis /Beira| - Somalia, Ethiopia
+
+41.Gazella cuvieri /Cuvier's gazelle| - Algeria, Morocco, Tunisia
+
+42.Nanger dama / Dama gazelle| - Chad, Mali, Niger
+
+43.Gazella dorcas /Dorcas gazelle| - Mali, Mauritania, Niger,Burkina Faso, Djibouti, Eritrea, Chad, Ethiopia, Somalia, Sudan, Egypt, Libya, Tunisia, Algeria, Morocco
+
+44.Gazella gazella /Mountain gazelle| - Israel, Lebanon, Turkey
+
+45.Gazella leptoceros /Rhim gazelle| - Algeria, Chad, Egypt, Libya, Sudan
+ 
+46.Eudorcas rufifrons /Red-fronted gazelle| - Burkina Faso,Cameroon, Central African Republic, Chad, Eritrea,Ethiopia, Mali, Mauritania, Niger, Nigeria, Senagal, Sudan, South Sudan
+
+47.Gazella spekei / Speke's gazelle| - Somalia, Ethiopia
+ 
+48.Gazella subgutturosa /Goitered gazelle| - Azerbaijan, Georia, Iran, Iraq, Pakistan, Turkey, Afghanistan, Uzbekistan, Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan
+
+49.Arabitragus jayakari /Arabian tahr| - Oman, United Arab Emirates
+
+50.Hippocamelus bisulcus /South Andean deer| - Argentina, Chile
+
+51.Hippopotamus amphibius /Hippopotamus| - Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Chad, Central African Republic, Democratic Republic of Congo, Republic of the Congo, Egypt, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, C?te d'Ivoire, Kenya, Lesotho, Liberia, Malawi, Mali, Mozambiue, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Togo, Uganda, Zambia, Zimbabwe
+
+52.Hydropotes inermis / Water deer| - China, North Korea, South Korea
+
+53.Kobus megaceros /Nile lechwe| - Ethiopia, South Sudan
+
+54.Moschus moschiferus /Siberian musk deer| - Russia, China, North Korea, South Korea, Mongolia
+
+55.Muntiacus crinifrons /Hairy-fronted muntjac| - China
+
+56.Naemorhedus caudatus / Long-tailed goral | - Russia, China, North Korea, South Korea, India
+
+57.Oryx leucoryx / Arabian oryx| - Oman, Saudi Arabia, Israel, the United Arab Emirates, Syria, Jordan, Bahrain, Qatar
+
+58.Ovis orientalis /Mouflon| - Russia, Georgia, Iraq, Iran, Armenia, Bulgaria, Turkey, Greece, Cyprus, Portugal, Spain, France, Germany, Italy, Switzerland, Austria, Netherlands, Belgium, Czach Republik, Poland, Slovakia, Slovenia, Hungary, Chile, Argentina
+
+59.Procapra przewalskii / Przewalski's gazelle| - China, Mongolia
+
+60.Pudu puda / Southern Pudu| - Chile, Argentina
+
+61.Saiga tatarica / Saiga antelope | - Russia, Kazakhstan, Uzbekistan, Turkmenistan, China, Moldova, Romania
+
+62.Sus cebifrons /Visayan warty pig| - Philippines
+
+63.Sus ahoenobarbus /Palawan bearded pig| - Philippines
+
+64.Tragelaphus buxtoni /Mountain nyala| - Ethiopia
+ 
+65.Tragulus nigricans /Balabac Mouse Deer| - Philippines
+
+66.Mazama pandora / Yucatan Brown Brocket | - Belize; Guatemala; Mexico
+
+67.Mazama bororo / Small Red Brocket | - Brazil 
+
+68.Sus barbatus / Bearded Pig | - Brunei, Indonesia, Malaysia, Philippines
+
+69.Muntiacus vuquangensis / Giant Muntjac | - Cambodia; Lao People's Democratic Republic; Vietnam
+
+70.Nanger soemmerringii / Soemmerring's Gazelle | - Djibouti; Eritrea; Ethiopia; Somalia, Sudan
+
+71.Camelus ferus / Bactrian Camel | - China, Mongolia, Kazakhstan
+
+72.Babyrousa celebensis / Sulawesi Babirusa | - Indonesia
+
+73.Babyrousa togeanensis /Togian Babirusa| - Indonesia
+
+74.Moschus anhuiensis / Anhui Musk Deer | - China
+
+75.Dasyuroides byrnei / Kowari| - Australia
+
+76.Dasyurus hallucatus / Northern Quoll | - Australia
+
+77.Murexia rothschildi / Broad-striped Dasyure| - Papua New Guinea
+
+78.Myrmecobius fasciatus / Numbat | - Australia
+
+79.Parantechinus apicalis /Dibbler | - Australia
+
+80.Phascogale pirata /Northern Brush-tailed Phascogale| - Australia
+
+81.Pseudantechinus mimulus / Carpentarian Antechinus | - Australia
+
+82.Sminthopsis psammophila / Sandhill Dunnart | - Australia
+
+83.Sminthopsis aitkeni / Kangaroo Island Dunnart| - Australia
+
+84.Sminthopsis butleri / Butler's Dunnart | - Australia
+
+85.Sminthopsis leucopus /White-footed Dunnart| - Australia
+
+86.Sarcophilus harrisii /Tasmanian Devil| - Australia
+
+87.Bettongia penicillata / Woylie| - Australia
+
+88.Bettongia tropica / Northern Bettong| - Australia
+
+89.Burramys parvus / Mountain Pygmy Possum | - Australia 
+
+90.Dactylopsila tatei / Tate's Triok| - Papua New Guinea
+
+91.Dendrolagus dorianus / Doria's Tree Kangaroo| - Papua New Guinea
+
+92.Dendrolagus goodfellowi / Goodfellow's Tree Kangaroo | - Indonesia, Papua New Guinea
+
+93.Dendrolagus inustus / Grizzled Tree Kangaroo| - Indonesia; Papua New Guinea
+
+94.Dendrolagus matschiei / Huon Tree Kangaroo| - Papua New Guinea
+
+95.Dendrolagus ursinus /Vogelkop Tree Kangaroo| - Indonesia
+
+96.Dendrolagus scottae /Tenkile| - Papua New Guinea
+
+97.Dendrolagus mbaiso / Dingiso| - Indonesia
+
+98.Dorcopsis atrata /Black Dorcopsis| - Papua New Guinea
+
+99.Dorcopsis luctuosa /Dorcopsis luctuosa| - Papua New Guinea
+
+100.Gymnobelideus leadbeateri /  	Leadbeater's Possum| - Australia 
+
+101.Lagorchestes hirsutus /Rufous Hare-wallaby| - Australia
+
+102.Lagostrophus fasciatus / Banded Hare Wallaby| - Australia
+
+103.Lasiorhinus krefftii /Northern Hairy-nosed Wombat| - Australia
+
+104.Onychogalea fraenata / Bridled Nailtail Wallaby| - Australia
+
+105.Petaurus abidi /Northern Glider| - Papua New Guinea
+
+106.Petaurus gracilis / Mahogany Glider| - Australia 
+
+107.Petrogale persephone / Proserpine Rock Wallaby| - Australia 
+
+108.Phalanger lullulae / Woodlark Cuscus| - Papua New Guinea
+
+109.Phalanger matanim / Telefomin Cuscus| - Papua New Guinea
+
+110.Potorous longipes /Long-footed potoroo| - Australia
+
+111.Potorous gilbertii / Gilbert's Potoroo| - Australia
+
+112.Pseudocheirus occidentalis /  Western Ringtail Possum| - Australia
+
+113.Setonix brachyurus /Quokka| - Australia
+
+114.Spilocuscus papuensis /Waigeo Cuscus| - Indonesia
+
+115.Spilocuscus rufoniger / Black-spotted Cuscus | - Indonesia; Papua New Guinea
+
+116.Strigocuscus celebensis /  Small Sulawesi Cuscus| - Indonesia
+
+117.Thylogale brunii  /Dusky Pademelon| - Indonesia; Papua New Guinea
+
+118.Thylogale calabyi / Calaby's Pademelon| - Papua New Guinea
+
+119.Thylogale browni /New Guinea Pademelon| - Indonesia; Papua New Guinea
+
+120.Pseudochirops coronatus /D'Albertis's Ringtail| - Indonesia; Papua New Guinea
+
+121.Ailurops ursinus /Bear Cuscus| - Indonesia
+
+122.Pseudochirulus schlegeli /Arfak Ringtail| - Indonesia
+
+123.Phalanger matabiru /Blue-eyed Cuscus| - Indonesia
+
+124.Ailurops melanotis /Talaud Bear Cuscus | - Indonesia
+
+125.Thylogale lanatus /Mountain Pademelon| - Papua New Guinea
+
+126.Spilocuscus wilsoni /Blue-eyed Spotted Cuscus| - Indonesia
+
+127.Dendrolagus mayri /Wondiwoi Tree-kangaroo| - Indonesia
+
+128.Dendrolagus pulcherrimus / Golden-mantled Tree Kangaroo| - Indonesia; Papua New Guinea
+
+129.Dendrolagus notatus /Ifola tree-kangaroo | - Papua New Guinea
+
+130.Dendrolagus stellarum /Seri’s Tree Kangaroo| - Indonesia; Papua New Guinea
+
+131.Bunolagus monticularis / Riverine Rabbit| - South Africa
+
+132.Lepus flavigularis / Tehuantepec Jackrabbit| - Mexico
+
+133.Lepus castroviejoi / Broom Hare| - Spain
+
+134.Pentalagus furnessi / Amami Rabbit| - Japan
+
+135.Sylvilagus mansuetus /San Jose Brush Rabbit | - Mexico, USA
+
+136.Sylvilagus transitionalis / Wood Rabbit| - USA
+
+137.Ochotona hoffmanni /Hoffmann's pika| - Mongolia, Russia
+
+138.Lepus corsicanus /Corsican hare| - Italy
+
+139.Sylvilagus robustus /Robust Cottontail| - USA, Mexico
+
+140.Ochotona argentata /Helan Shan pika| - China, Mongolia
+
+141.Dicerorhinus sumatrensis /Sumatran rhinoceros| - India,Butan, Bangladesh, Myanmar, Laos, Thailand, Malaysia, Indonesia, China
+
+142.Diceros bicornis /Black rhinoceros| - Botswana,Kenya, Malawi, Mozambique, Namibia, South Africa, Swaziland, Tanzania, Zambia, Zimbabwe
+
+143.Equus africanus /African Wild Ass| - Eritrea, Ethiopia, Somalia, Sudan, Egypt, Libya
+
+144.Equus grevyi /Gr?vy's zebra| - Kenya, Ethiopia, Somalia, Sudan
+
+145.Equus hemionus /Asiatic Wild Ass| - China, India, Iran, Mongolia, Turkmenistan, Afghanistan, Armenia, Azerbaijan, Georgia, Iraq, Jordan, Kuwait, Kyrgyzstan, Lebanon, Russian, Saudi Arabia, Syria, Tajikistan, Turkey, Ukraine, Israel, Kazakhstan, Uzbekistan
+
+146.Equus zebra /Hartmann's mountain zebra| - Angola, Namibia, South Africa
+
+147.Rhinoceros sondaicus /Javan Rhinoceros| - Indonesia, Vietnam, Bangladesh, Cambodia, China, India, Laos, Malaysia, Myanmar, Thailand
+
+148.Tapirus terrestris /Brazilian Tapir| - Argentina, Bolivia, Plurinational, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Venezuela, Bolivarian
+
+149.Alouatta pigra /Black Howling Monkey| - Belize, Guatemala, Mexico
+
+150.Alouatta ululata /Red-handed Howling Monkey|  - Brazil
+
+151.Aotus miconax /Andean Night Monkey| - Peru
+
+152.Aotus griseimembra /Grey-handed Night Monkey| - Colombia, Venezuela, Bolivarian
+
+153.Aotus lemurinus /Colombian Night Monkey| - Ecuador,  Colombia, Venezuela, Bolivarian
+
+154.Ateles belzebuth / White-bellied Spider Monkey| - Brazil, Ecuador,  Colombia, Venezuela, Bolivarian, Peru
+
+155.Ateles geoffroyi /Geoffroy’s Spider Monkey| - Belize, Colombia,  Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+
+156.Ateles marginatus /White-cheeked Spider Monkey| - Brazil
+
+157.Ateles paniscus /  Red-faced spider monkey| - French Guiana, Guyana, Suriname, Brazil
+
+158.Avahi occidentalis / Western woolly lemur| - Madagascar
+
+159.Brachyteles arachnoides / Southern Muriqui| - Brazil
+
+160.Brachyteles hypoxanthus / Northern Muriqui| - Brazil
+
+161.Cacajao calvus / Bald-headed Uacari| - Brazil, Peru, Colombia
+
+162.Callicebus oenanthe /San Martin Titi Monkey| - Peru
+
+163.Callicebus olallae /Ollala brothers' titi| - Bolivia
+ 
+164.Callicebus personatus /Atlantic titi| - Brazil
+
+165.Callimico goeldii /Goeldi's marmoset| - Bolivia, Brazil, Colombia, Ecuador, Peru
+
+166.Callithrix aurita /Buffy-tufted marmoset| - Brazil
+
+167.Callithrix flaviceps /Buffy-headed marmoset| - Brazil
+
+168.Cebus xanthosternos /Golden-bellied capuchin|  - Brazil
+
+169.Cercocebus galeritus /Tana River mangabey| - Kenya
+ 
+170.Cercocebus torquatus /Collared mangabey| - Cmeroon, Gabon, Nigeria, Equatorial Guinea
+
+171.Cercocebus sanjei /Sanje mangabey| - Tanzania
+
+172.Cercocebus atys / Sooty Mangabey| - C?te d'Ivoire, Guinea, Guinea-Bissau, Liberia, Senegal, Sierra Leone
+
+173.Cercopithecus diana  /Diana Monkey| - C?te d'Ivoire, Guinea, Liberia, Sierra Leone
+
+174.Cercopithecus dryas /Dryas Monkey| - Congo
+
+175.Cercopithecus erythrogaster /Cercopithecus erythrogaster | - Benin, Nigeria, Togo
+
+176.Cercopithecus erythrotis / Red-eared Monkey| - Cameroon, Equatorial Guinea, Nigeria
+
+177.Cercopithecus hamlyni /Owl-faced Monkey| - Congo, Rwanda
+
+178.Cercopithecus lhoesti /L'Hoest's Monkey| - Burundi, Congo, Rwanda, Uganda
+
+179.Cercopithecus preussi /Preuss’s Monkey| - Cameroon, Equatorial Guinea, Nigeria
+
+180.Cercopithecus sclateri /Sclater's Monkey| - Nigeria
+
+181.Cercopithecus solatus /Sun-tailed Monkey| - Gabon
+
+182.Chlorocebus djamdjamensis / Bale Monkey| - Ethiopia
+
+183.Chiropotes albinasus /White-nosed Sak| - Brazil
+
+184.Colobus polykomos /King Colobus| - C?te d'Ivoire, Guinea, Guinea-Bissau, Liberia, Sierra Leone
+
+185.Colobus satanas /  Black Colobus | - Cameroon, Congo, Equatorial Guinea, Gabon
+
+186.Colobus vellerosus / White-thighed Colobus| - Benin, C?te d'Ivoire, Ghana, Nigeria, Togo
+
+187.Eulemur coronatus /Crowned Lemur| - Madagascar
+
+188.Eulemur mongoz /Mongoose Lemur| - Madagascar
+
+189.Eulemur rubriventer /Red-bellied Lemur| - Madagascar
+
+190.Eulemur albifrons /White-fronted Lemur| - Madagascar
+
+191.Eulemur cinereiceps /White-collared Lemur| - Madagascar
+
+192.Eulemur collaris / Collared Brown Lemur|  - Madagascar
+
+193.Eulemur sanfordi / Sanford's Brown Lemur| - Madagascar
+
+194.Gorilla gorilla /Western Gorilla| - Angola, Cameroo,; Central African Republic, Congo, Equatorial Guinea, Gabon, Nigeria
+
+195.Hapalemur aureus /Golden Bamboo Lemur| - Madagascar
+
+196.Hapalemur griseus /Eastern Lesser Bamboo Lemur| - Madagascar
+
+197.Prolemur simus / Greater Bamboo Lemur| - Madagascar
+
+198.Hapalemur alaotrensis /Alaotra Reed Lemur| - Madagascar
+
+199.Hapalemur occidentalis / Western Gentle Lemur| - Madagascar
+
+200.Hylobates agilis /Agile Gibbon| - Indonesia, Malaysia, Thailand
+
+201.Hylobates klossii / Kloss’s Gibbon| - Indonesia
+
+202.Hylobates lar /Common Gibbon| - Indonesia, Laos, Malaysia, Myanmar, Thailand
+
+203.Hylobates moloch /Silvery Gibbon| - Indonesia
+
+204.Hylobates muelleri /Bornean Gibbon| - Brunei, Indonesia, Malaysia
+
+205.Hylobates pileatus /Pileated Gibbon| - Cambodia, Laos, Thailand
+
+206.Indri indri / Indri| - Madagascar
+
+207.Lagothrix lagotricha /Common Woolly Monkey| - Brazil, Colombia,  Ecuador, Peru
+
+208.Leontopithecus caissara /Black-faced Lion Tamarin| - Brazil
+
+209.Leontopithecus chrysopygus / Black Lion Tamarin| - Brazil
+
+210.Leontopithecus rosalia / Golden Lion Tamarin| - Brazil 
+
+211.Lepilemur edwardsi /Milne-Edwards's Sportive Lemur| - Madagascar
+
+212.Lepilemur septentrionalis /Sahafary Sportive Lemur| - Madagascar
+
+213.Loris tardigradus /Red Slender Lori| - Sri Lanka
+ 
+214.Macaca arctoides /Bear Macaque| - Cambodia; China; India; Laos, Malaysia, Myanmar, Thailand, Vietnam
+
+215.Macaca maura /Moor macaque| - Indonesia
+
+216.Macaca nemestrina /Southern Pig-tailed Macaque| - Brunei, Indonesia,  Malaysia, Thailand
+
+217.Macaca nigra /Celebes Crested Macaque| - Indonesia 
+
+218.Macaca ochreata /Booted Macaque| - Indonesia 
+
+219.Macaca silenus /Lion-tailed Macaque| - India
+
+220.Macaca sinica /Toque Macaque| - Sri Lanka
+
+221.Macaca sylvanus /Barbary Macaque| - Algeria, Morocco, Tunisia, Gibraltar
+
+222.Macaca tonkeana / Tonkean Macaque| - Indonesia
+
+223.Macaca nigrescens / Gorontalo Macaque| - Indonesia
+
+224.Macaca hecki / Heck's Macaque| - Indonesia
+
+225.Mandrillus leucophaeus /Drill| - Cameroon, Equatorial Guinea, Nigeria
+
+226.Mandrillus sphinx / Mandrill| - Cameroon, Congo, Equatorial Guinea, Gabon
+
+227.Nasalis larvatus /Proboscis Monkey| - Brunei, Indonesia, Malaysia
+
+228.Nycticebus pygmaeus /Pygmy Slow Loris| - Cambodia, Laos, Vietnam
+
+229.Pan paniscus / 	Bonobo| - Congo
+
+230.Pan troglodytes / Bonobo| - Congo
+
+231.Phaner parienti /Sambirano Fork-marked Lemu| - Madagascar
+ 
+232.Phaner electromontis /Sambirano lemur | - Madagascar
+
+233.Pongo pygmaeus /Bornean Orangutan| - Indonesia, Malaysia
+
+234.Presbytis comata / Javan Surili| - Indonesia
+
+235.Presbytis frontata /White-fronted Langur| - Indonesia, Malaysia
+
+236.Presbytis hosei / Hose’s Langu| - Brunei, Indonesia, Malaysia
+
+237.Presbytis melalophos / Sumatran Surili | - Indonesia
+
+238.Presbytis potenziani /Mentawai Langur| - Indonesia
+
+239.Presbytis thomasi /Thomas’s Langu| - Indonesia
+
+240.Procolobus badius /Bay Colobus| - C?te d'Ivoire, Guinea, Liberia, Sierra Leone
+
+241.Propithecus tattersalli /Golden-crowned Sifaka| - Madagascar
+
+242.Propithecus verreauxi /Verreaux's Sifaka| - Madagascar
+
+243.Propithecus coquereli /Coquerel's Sifaka| - Madagascar
+
+244.Propithecus coronatus /Crowned Sifaka| - Madagascar
+
+245.Propithecus deckenii /Decken's Sifaka| - Madagascar
+
+246.Propithecus diadema /Diademed Sifaka| - Madagascar
+
+247.Propithecus edwardsi /Milne-Edward's Sifaka| - Madagascar
+
+248.Propithecus candidus /Silky Sifaka| - Madagascar
+
+249.Propithecus perrieri / 	Perrier’s Sifaka| - Madagascar
+
+250.Rhinopithecus avunculus / Tonkin Snub-nosed Monkey| - Vietnam
+
+251.Rhinopithecus brelichi /Gray Snub-nosed Monkey| - China
+
+252.Rhinopithecus roxellana / Golden Snub-nosed Monkey| - China
+
+253.Rhinopithecus bieti /Black snub-nosed monkey| - China
+
+254.Saguinus leucopus /Silvery-brown Tamarin| - Colombia
+
+255.Saguinus oedipus /Cotton-top Tamarin| - Colombia
+
+256.Saimiri oerstedii /Central American squirrel monkey| - Costa Rica, Panama
+
+257.Saimiri vanzolinii /Black Squirrel Monkey| - Brazil 
+
+258.Simias concolor / Pig-tailed Langur| - Indonesia
+
+259.Tarsius bancanus / Horsfield’s Tarsier| - Brunei, Indonesia, Malaysia
+
+260.Tarsius dentatus /Diana Tarsier| - Indonesia
+
+261.Tarsius tarsier /Eastern Tarsie| - Indonesia
+
+262.Tarsius sangirensis /Sangihe Tarsie | - Indonesia
+
+263.Tarsius pelengensis /Peleng Island Tarsier| - Indonesia
+
+264.Trachypithecus auratus /Javan Langur| - Indonesia
+
+265.Trachypithecus geei /Gee's Golden Langur| - Bhutan, India 
+
+266.Trachypithecus phayrei /Phayre's Langur| - Bangladesh, China, India, Laos, Myanmar, Thailand, Vietnam
+
+267.Trachypithecus pileatus /Bonneted Langur| - Bangladesh, Bhutan, India, Myanmar
+
+268.Trachypithecus vetulus /Purple-faced Langu| - Sri Lanka
+
+269.Trachypithecus delacouri /Delacour's Langur| - Vietnam
+
+270.Trachypithecus laotum /Laotian Langur| - Laos
+
+271.Trachypithecus poliocephalus /Cat Ba Langur| - China, Vietnam
+
+272.Varecia variegata /Ruffed Lemur| -  Madagascar
+
+273.Varecia rubra /Red Ruffed Lemur| - Madagascar
+
+274.Microcebus ravelobensis /Golden-brown Mouse Lemur| - Madagascar
+
+275.Nycticebus bengalensis /Ashy Slow Loris| - Bangladesh, Cambodia, China, India, Laos,  Myanmar, Thailand, Vietnam
+
+276.Nycticebus coucang /Greater Slow Loris| - Indonesia, Malaysia,  Singapore, Thailand
+
+277.Nycticebus menagensis / Philippine Slow Loris| - Brunei, Indonesia, Malaysia, Philippines
+
+278.Nycticebus javanicus /Javan Slow Loris| - Indonesia
+
+279.Nomascus concolor /Black Crested Gibbon| - China, Laos, Vietnam
+
+280.Nomascus gabriellae /Red-cheeked Gibbon| - Cambodia, Laos, Vietnam
+
+281.Symphalangus syndactylus / Siamang| - Indonesia, Malaysia, Thailand
+
+282.Pongo abelii /Sumatran Orangutan| - Indonesia
+
+283.Macaca leonina / Northern Pig-tailed Macaque| - Bangladesh, Cambodia, China, India, Laos, Myanmar, Thailand, Vietnam
+
+284.Macaca pagensis /Pagai Macaque| - Indonesia
+
+285.Macaca siberu / Siberut Macaque| - Indonesia
+
+286.Presbytis chrysomelas /Bornean Banded Langur| - Brunei, Indonesia, Malaysia 
+
+287.Pygathrix nemaeus / Red-shanked Douc Langur| - Cambodia, Laos, Vietnam
+
+288.Pygathrix cinerea /Grey-shanked Douc Langur| - Vietnam
+
+289.Pygathrix nigripes / Black-shanked Douc| - Cambodia, Vietnam
+
+290.Semnopithecus ajax /Kashmir Gray Langur| - India
+
+291.Semnopithecus hypoleucos /Black-footed Gray Langur| - India
+
+292.Trachypithecus francoisi /Fran?ois’s Langur| - China, Vietnam
+
+293.Trachypithecus shortridgei /Fran?ois’s Langur| - China, Vietnam
+
+294.Trachypithecus germaini / Indochinese Lutung| - Cambodia, Laos, Myanmar, Thailand, Vietnam
+
+295.Hoolock hoolock /Western Hoolock Gibbon| - Bangladesh, India, Myanmar
+
+296.Hoolock leuconedys /Eastern Hoolock Gibbon| - China, Myanmar
+
+297.Hylobates albibarbis /Bornean Agile Gibbon| - Indonesia
+
+298.Nomascus leucogenys /Northern White-cheeked Gibbon| - Laos, Vietnam
+
+299.Nomascus siki /Southern White-cheeked Gibbon| - Laos, Vietnam
+
+300.Mico leucippe / Golden-white Bare-ear Marmoset | - Brazil
+
+301.Aotus brumbacki /Brumback's Night Monkey| - Colombia
+
+302.Oreonax flavicauda /Peruvian Yellow-tailed Woolly Monkey| - Peru
+
+303.Lagothrix cana / Peruvian Woolly Monkey| - Bolivia, Brazil, Peru
+
+304.Lagothrix lugens /Colombian Woolly Monkey| - Colombia
+
+305.Lagothrix poeppigii /Poeppig's Woolly Monkey |  - Brazil, Ecuador, Peru
+
+306.Callicebus ornatus /Ornate Tit? Monkey| - Colombia
+
+307.Callicebus barbarabrownae /Blond Titi Monkey| - Brazil
+
+308.Callicebus melanochir / Coastal Black-handed Titi| - Brazil
+
+309.Callicebus medemi /Colombian Black-handed Titi| - Colombia
+
+310.Callicebus coimbrai /Coimbra-Filho’s Titi Monkey| - Brazil
+
+311.Chiropotes satanas /Black Bearded Saki| - Brazil
+
+312.Alouatta belzebul /Red-handed Howler Monkey| - Brazil
+
+313.Ateles hybridus /Variegated Spider Monkey| - Colombia, Venezuela, Bolivarian
+
+314.Procolobus kirkii /Zanzibar Red Colobus| - Tanzania
+
+315.Gorilla beringei / Eastern Gorilla| - Congo, Rwanda, Uganda
+
+316.Procolobus pennantii /Pennant's Red Colobus| - Equatorial Guinea
+
+317.Procolobus gordonorum /Udzungwa Red Colobus| - Tanzania
+
+318.Cebus kaapori /Ka’apor Capuchin| - Brazil 
+
+319.Leontopithecus chrysomelas /Golden-headed Lion Tamarin| - Brazil 
+
+320.Saguinus bicolor /Brazilian Bare-faced Tamarin| - Brazil 
+
+321.Galagoides rondoensis / Rondo Dwarf Galago| - Tanzania
+
+322.Trachypithecus hatinhensis /Hatinh Langur| - Laos, Vietnam
+
+323.Procolobus preussi /Preuss’s Red Colobus| - Cameroon, Nigeria
+
+324.Ateles chamek /Chamek Spider Monkey| - Bolivia,  Brazil, Peru
+
+325.Callicebus modestus /Beni Titi Monkey, Bolivian Titi| - Bolivia
+
+326.Pithecia albicans /White Saki| - Brazil
+
+327.Microcebus tavaratra /Tavaratra Mouse Lemur| - Madagascar
+
+328.Microcebus sambiranensis /Sambirano Mouse Lemur| - Madagascar
+
+329.Microcebus berthae /Madame Berthe's Mouse Lemur| - Madagascar
+
+330.Callibella humilis /Black-crowned Dwarf Marmoset| - Brazil 
+
+331.Nomascus nasutus / Cao-vit Gibbon| - China, Vietnam
+
+332.Nomascus hainanus / Hainan Gibbon| - China
+
+333.Saguinus niger /Black-handed Tamarin| - Brazil
+
+334.Cebus robustus /Crested Capuchin| - Brazil
+
+335.Chiropotes utahickae /Uta Hick’s Bearded Saki| - Brazil
+
+336.Alouatta discolor /Spix's Red-handed Howler Monkey| - Brazil 
+
+337.Trachypithecus johnii /Nilgiri Langur| - India
+
+338.Ateles fusciceps /Brown-headed Spider Monkey| - Colombia, Ecuador,  Panama
+
+339.Cebus flavius /Blonde Capuchin| - Brazil
+
+340.Avahi cleesei /Bemaraha Woolly Lemur| - Madagascar
+
+341.Hapalemur meridionalis /Rusty-gray Lesser Bamboo Lemur| - Madagascar
+
+342.Cacajao ayresi / Ayres Black Uakari| - Brazil
+
+343.Presbytis natunae /Natuna Island Suril| - Indonesia
+
+344.Macaca munzala /Arunachal Macaque| - India
+
+345.Cacajao hosomi /Black-headed Uacari| - Brazil, Venezuela, Bolivarian
+
+346.Lepilemur ankaranensis / Ankarana Sportive Lemur| - Madagascar
+
+347.Rungwecebus kipunji / Kipunji| - Tanzania
+
+348.Elephas maximus / Indian Elephant| - Bangladesh, Bhutan, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, Sri Lanka, Thailand, Vietnam
+
+349.Loxodonta africana  /African Elephant| - Angola, Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, Congo, Congo DR, C?te d'Ivoire, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia; Malawi; Mali; Mozambique; Namibia; Niger; Nigeria; Rwanda; Senegal; Sierra Leone, Somalia, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe, Burundi, Gambia, Mauritania, Swaziland
+
+350.Allactaga tetradactyla /Four-toed Jerboa| - Egypt, Libya
+
+351.Arvicola sapidus /Southern Water Vole| - France, Portugal, Spain
+
+352.Chinchilla lanigera /Chinchilla| - Chile
+
+353.Cynomys parvidens /Utah Prairie Dog| - USA
+
+354.Dinaromys bogdanovi / Balkan Snow Vole| - Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia, Albania
+
+355.Diplothrix legata /Ryukyus Islands Tree Rat| - Japan
+
+356.Dipodomys gravipes /San Quintin Kangaroo Rat| - Mexico
+
+357.Dipodomys ingens /Giant Kangaroo Rat| - USA
+
+358.Dipodomys stephensi /Stephens' Kangaroo Rat| - USA
+
+359.Dipodomys nitratoides / Fresno Kangaroo Rat| - USA
+
+360.Dipodomys insularis /San Jos? Island kangaroo rat| - Mexico, USA
+
+361.Dipodomys margaritae /Margarita Island kangaroo rat| - Mexico
+
+362.Callistomys pictus /Painted Tree Rat| - Brazil
+
+363.Phyllomys unicolor /Unicolored Tree Rat| - Brazil
+
+364.Gerbillus hesperinus /Western Gerbil| - Morocco
+ 
+365.Gerbillus hoogstraali / Hoogstraal's Gerbil| - Morocco
+
+366.Hyosciurus ileile / Lowland Long-nosed Squirrel| - Indonesia 
+
+367.Leporillus apicalis /Lesser Stick-nest Rat| - Australia
+
+368.Leporillus conditor / Greater Stick-nest Rat | - Australia
+
+369.Meriones dahli /Dahl's Jird| - Armenia, Turkey
+
+370.Meriones sacramenti /Buxton's Jird| - Egypt, Israel, Palestinian
+
+371.Mesocapromys angelcabrerai /Cabrera's Hutia| - Cuba
+
+372.Microtus bavaricus /Bavarian Pine Vole| - Austria, Germany
+
+373.Myomimus roachi /Mouse-tailed Dormouse| - Bulgaria, Greece, Turkey
+
+374.Mysateles meridionalis / Prehensile-tailed Hutia| - Cuba
+
+375.Mystromys albicaudatus /White-tailed Mouse| - Lesotho, South Africa
+
+376.Neotoma bryanti /Bryant's Woodrat| - Mexico
+
+377.Nesokia bunnii /Bunn's Short-tailed Bandicoot Rat| - Iraq
+
+378.Nesoryzomys fernandinae / Fernandina Galapagos Mouse| - Ecuador
+
+379.Notomys fuscus /Dusky Hopping-mouse| - Australia 
+
+380.Notomys cervinus / Fawn Hopping-mouse| - Australia
+
+381.Octodon pacificus /Pacific degu| - Chile
+
+382.Peromyscus caniceps / Monserrat Island Deermouse| - Mexico
+
+383.Peromyscus guardia /  Angel Island Mouse| - Mexico
+
+384.Peromyscus sejugis /Santa Cruz Mouse| - Mexico
+
+385.Pseudomys fieldi /Shark Bay mouse| - Australia
+
+386.Pseudomys fumeus /Smoky mouse| - Australia
+
+387.Pseudomys oralis /Hastings River mouse| - Australia
+
+388.Pseudomys australis /Plains rat| - Australia
+
+389.Rattus montanus /Sri Lankan Mountain Rat| - Sri Lanka
+ 
+390.Rattus xanthurus /Northeastern Xanthurus Rat| - Indonesia 
+
+391.Sicista armenica /Armenian Birch Mouse| - Armenia
+
+392.Spermophilus citellus /European Ground Squirrel| - Austria, Bulgaria, Czech Republic, Greece, Hungary, Macedonia, Moldova, Romania, Serbia, Slovakia, Turkey, Ukraine, Croatia, Germany, Poland
+
+393.Spermophilus mohavensis / Mohave Ground Squirrel| - USA
+
+394.Spermophilus atricapillus /Baja California Rock Squirrel| - Mexico
+
+395.Tokudaia muenninki / Okinawa Spiny Rat| - Japan
+
+396.Tokudaia osimensis /Amami Spiny Rat| - Japan
+
+397.Wilfredomys oenax /Greater Wilfred's Mouse| - Brazil, Uruguay
+
+398.Zyzomys pedunculatus /Central Rock-rat| - Australia
+
+399.Zyzomys palatalis / Carpentarian Rock-rat| - Australia
+
+400.Bullimus gamay /Camiguin Bullimus| - Philippines
+
+401.Melomys talaudium / 	Long-tailed Talaud Melomys| - Indonesia
+ 
+402.Apomys camiguinensis / Camiguin Forest Mouse| - Philippines
+
+403.Trinomys eliasi /Atlantic spiny-rat | - Brazil
+
+404.Trinomys yonenagae /Yonenaga's Atlantic spiny-rat| - Brazil
+
+405.Chaetodipus dalquesti /Dalquest's Pocket Mouse| - Mexico
+
+406.Oxymycterus josei /Cook's hocicudo | - Uruguay
+
+407.Melomys matambuai /  Manus Melomys| - Papua New Guinea
+
+408.Juliomys rimofrons / Cleft-headed Juliomys | - Brazil
+
+409.Ctenomys lami /Lami tuco-tuco | - Brazil
+
+410.Heteromys oasicus /Paraguan? spiny pocket mouse| - Venezuela
+
+411.Tokudaia tokunoshimensis /Tokunoshima Spiny Rat | - Japan
+
+412.Salinoctomys loschalchalerosorum / 	Chalchalero Viscacha Rat| - Argentina
+
+413.Melomys caurinus /Short-tailed Talaud mosaic-tailed rat| - Indonesia
+
+414.Uromys boeadii / Biak Giant Rat| - Indonesia
+
+415.
