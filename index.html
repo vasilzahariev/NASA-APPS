@@ -1,22 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>maiki123</title>
-    <link rel="stylesheet" href="design.css">
-</head>
-<body>
-<div class="site-design">
-    <header class="header">
-        <nav class="menu">
-            <ul type="none">
-                <li><a href="">Home</a></li>
-                <li style="margin-left: 10px;"><a href="">Project</a></li>
-                <li style="margin-left: 10px;"><a href="">Information</a></li>
-            </ul>
-        </nav>
-        <hr>
-    </header>
-</div>
-</body>
+<html>
+	<head>
+		<title>Earth!</title>
+		<link rel="stylesheet" href="/css/style.css">
+	</head>
+	<form class="menuI" style="border: 1px solid black;">
+		<input type="button" id="but" value="Animals">
+		<input type="button" id="but2" value="Climate">
+		<input type="button" id="but3" value="Normal">
+		<input type="button" id="but4" value="Where am I ?">
+		<input type="button" id="but5" value="Upload image">
+
+		<div id="selectMenu" style="display:none;">
+			<br/>Select Country:
+	        <select id="country" name="country"></select><br>
+			<br/>Select Animal :
+	        <select id="animal" name="animal" onchange="changeAnm();"></select>
+		</div>
+
+	</form>
+	<div id="encycloAnm">
+			<h1 id="zagl"><img id="anmImg"/></h1>
+	</div>
+	<body onload="InitDemo();">
+		<canvas id="game-surface" width="800" height="600">
+			Your browser does not support HTML5
+		</canvas>
+		<br />
+		<script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+		<script src="js/countries.js"></script>
+		<script src="js/util.js"></script>
+		<script src="js/gl-matrix.js"></script>
+		<script src="js/app.js"></script>
+
+
+		<script language="javascript">
+
+				populateCountries("country");
+				populateAnimals("animal");
+		</script>
+	</body>
 </html>

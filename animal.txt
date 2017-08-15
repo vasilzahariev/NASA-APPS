@@ -1,4 +1,4 @@
-1.Acinonyx jubatus /Cheetah| - Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau , Kenya, Lesotho, Libya, Malawi, Mali, Mauritania, Morocco,  , Niger, , Nigeria, Republic of Congo, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe, India, Iran, Iraq, Syria, Oman, Saudi Arabia, Israel, Afghanistan, Pakistan, Turkmenistan, Yemen, UAE, Qatar
+ï»¿1.Acinonyx jubatus /Cheetah| - Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau , Kenya, Lesotho, Libya, Malawi, Mali, Mauritania, Morocco,  , Niger, , Nigeria, Republic of Congo, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe, India, Iran, Iraq, Syria, Oman, Saudi Arabia, Israel, Afghanistan, Pakistan, Turkmenistan, Yemen, UAE, Qatar
 
 2.Canis rufus /Red wolf|    - USA
 
@@ -128,15 +128,15 @@
  
 65.Tragulus nigricans /Balabac Mouse Deer| - Philippines
 
-66.Mazama pandora / Yucatan Brown Brocket | - Belize; Guatemala; Mexico
+66.Mazama pandora / Yucatan Brown Brocket | - Belize, Guatemala, Mexico
 
 67.Mazama bororo / Small Red Brocket | - Brazil 
 
 68.Sus barbatus / Bearded Pig | - Brunei, Indonesia, Malaysia, Philippines
 
-69.Muntiacus vuquangensis / Giant Muntjac | - Cambodia; Lao People's Democratic Republic; Vietnam
+69.Muntiacus vuquangensis / Giant Muntjac | - Cambodia, Lao People's Democratic Republic, Vietnam
 
-70.Nanger soemmerringii / Soemmerring's Gazelle | - Djibouti; Eritrea; Ethiopia; Somalia, Sudan
+70.Nanger soemmerringii / Soemmerring's Gazelle | - Djibouti, Eritrea, Ethiopia, Somalia, Sudan
 
 71.Camelus ferus / Bactrian Camel | - China, Mongolia, Kazakhstan
 
@@ -182,7 +182,7 @@
 
 92.Dendrolagus goodfellowi / Goodfellow's Tree Kangaroo | - Indonesia, Papua New Guinea
 
-93.Dendrolagus inustus / Grizzled Tree Kangaroo| - Indonesia; Papua New Guinea
+93.Dendrolagus inustus / Grizzled Tree Kangaroo| - Indonesia, Papua New Guinea
 
 94.Dendrolagus matschiei / Huon Tree Kangaroo| - Papua New Guinea
 
@@ -226,17 +226,17 @@
 
 114.Spilocuscus papuensis /Waigeo Cuscus| - Indonesia
 
-115.Spilocuscus rufoniger / Black-spotted Cuscus | - Indonesia; Papua New Guinea
+115.Spilocuscus rufoniger / Black-spotted Cuscus | - Indonesia, Papua New Guinea
 
 116.Strigocuscus celebensis /  Small Sulawesi Cuscus| - Indonesia
 
-117.Thylogale brunii  /Dusky Pademelon| - Indonesia; Papua New Guinea
+117.Thylogale brunii  /Dusky Pademelon| - Indonesia, Papua New Guinea
 
 118.Thylogale calabyi / Calaby's Pademelon| - Papua New Guinea
 
-119.Thylogale browni /New Guinea Pademelon| - Indonesia; Papua New Guinea
+119.Thylogale browni /New Guinea Pademelon| - Indonesia, Papua New Guinea
 
-120.Pseudochirops coronatus /D'Albertis's Ringtail| - Indonesia; Papua New Guinea
+120.Pseudochirops coronatus /D'Albertis's Ringtail| - Indonesia, Papua New Guinea
 
 121.Ailurops ursinus /Bear Cuscus| - Indonesia
 
@@ -252,11 +252,11 @@
 
 127.Dendrolagus mayri /Wondiwoi Tree-kangaroo| - Indonesia
 
-128.Dendrolagus pulcherrimus / Golden-mantled Tree Kangaroo| - Indonesia; Papua New Guinea
+128.Dendrolagus pulcherrimus /Golden-mantled Tree Kangaroo| - Indonesia, Papua New Guinea
 
 129.Dendrolagus notatus /Ifola tree-kangaroo | - Papua New Guinea
 
-130.Dendrolagus stellarum /Seri’s Tree Kangaroo| - Indonesia; Papua New Guinea
+130.Dendrolagus stellarum /Seris Tree Kangaroo| - Indonesia, Papua New Guinea
 
 131.Bunolagus monticularis / Riverine Rabbit| - South Africa
 
@@ -306,7 +306,7 @@
 
 154.Ateles belzebuth / White-bellied Spider Monkey| - Brazil, Ecuador,  Colombia, Venezuela, Bolivarian, Peru
 
-155.Ateles geoffroyi /Geoffroy’s Spider Monkey| - Belize, Colombia,  Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+155.Ateles geoffroyi /Geoffroys Spider Monkey| - Belize, Colombia,  Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
 
 156.Ateles marginatus /White-cheeked Spider Monkey| - Brazil
 
@@ -354,7 +354,7 @@
 
 178.Cercopithecus lhoesti /L'Hoest's Monkey| - Burundi, Congo, Rwanda, Uganda
 
-179.Cercopithecus preussi /Preuss’s Monkey| - Cameroon, Equatorial Guinea, Nigeria
+179.Cercopithecus preussi /Preusss Monkey| - Cameroon, Equatorial Guinea, Nigeria
 
 180.Cercopithecus sclateri /Sclater's Monkey| - Nigeria
 
@@ -384,7 +384,7 @@
 
 193.Eulemur sanfordi / Sanford's Brown Lemur| - Madagascar
 
-194.Gorilla gorilla /Western Gorilla| - Angola, Cameroo,; Central African Republic, Congo, Equatorial Guinea, Gabon, Nigeria
+194.Gorilla gorilla /Western Gorilla| - Angola, Cameroo,, Central African Republic, Congo, Equatorial Guinea, Gabon, Nigeria
 
 195.Hapalemur aureus /Golden Bamboo Lemur| - Madagascar
 
@@ -398,7 +398,7 @@
 
 200.Hylobates agilis /Agile Gibbon| - Indonesia, Malaysia, Thailand
 
-201.Hylobates klossii / Kloss’s Gibbon| - Indonesia
+201.Hylobates klossii / Klosss Gibbon| - Indonesia
 
 202.Hylobates lar /Common Gibbon| - Indonesia, Laos, Malaysia, Myanmar, Thailand
 
@@ -424,7 +424,7 @@
 
 213.Loris tardigradus /Red Slender Lori| - Sri Lanka
  
-214.Macaca arctoides /Bear Macaque| - Cambodia; China; India; Laos, Malaysia, Myanmar, Thailand, Vietnam
+214.Macaca arctoides /Bear Macaque| - Cambodia, China, India, Laos, Malaysia, Myanmar, Thailand, Vietnam
 
 215.Macaca maura /Moor macaque| - Indonesia
 
@@ -468,13 +468,13 @@
 
 235.Presbytis frontata /White-fronted Langur| - Indonesia, Malaysia
 
-236.Presbytis hosei / Hose’s Langu| - Brunei, Indonesia, Malaysia
+236.Presbytis hosei / Hoses Langu| - Brunei, Indonesia, Malaysia
 
 237.Presbytis melalophos / Sumatran Surili | - Indonesia
 
 238.Presbytis potenziani /Mentawai Langur| - Indonesia
 
-239.Presbytis thomasi /Thomas’s Langu| - Indonesia
+239.Presbytis thomasi /Thomass Langu| - Indonesia
 
 240.Procolobus badius /Bay Colobus| - C?te d'Ivoire, Guinea, Liberia, Sierra Leone
 
@@ -494,7 +494,7 @@
 
 248.Propithecus candidus /Silky Sifaka| - Madagascar
 
-249.Propithecus perrieri / 	Perrier’s Sifaka| - Madagascar
+249.Propithecus perrieri / 	Perriers Sifaka| - Madagascar
 
 250.Rhinopithecus avunculus / Tonkin Snub-nosed Monkey| - Vietnam
 
@@ -514,7 +514,7 @@
 
 258.Simias concolor / Pig-tailed Langur| - Indonesia
 
-259.Tarsius bancanus / Horsfield’s Tarsier| - Brunei, Indonesia, Malaysia
+259.Tarsius bancanus / Horsfields Tarsier| - Brunei, Indonesia, Malaysia
 
 260.Tarsius dentatus /Diana Tarsier| - Indonesia
 
@@ -580,9 +580,9 @@
 
 291.Semnopithecus hypoleucos /Black-footed Gray Langur| - India
 
-292.Trachypithecus francoisi /Fran?ois’s Langur| - China, Vietnam
+292.Trachypithecus francoisi /Francoiss Langur| - China, Vietnam
 
-293.Trachypithecus shortridgei /Fran?ois’s Langur| - China, Vietnam
+293.Trachypithecus shortridgei /Shortridges Langur| - China, Vietnam
 
 294.Trachypithecus germaini / Indochinese Lutung| - Cambodia, Laos, Myanmar, Thailand, Vietnam
 
@@ -608,7 +608,7 @@
 
 305.Lagothrix poeppigii /Poeppig's Woolly Monkey |  - Brazil, Ecuador, Peru
 
-306.Callicebus ornatus /Ornate Tit? Monkey| - Colombia
+306.Callicebus ornatus /Ornate Tit Monkey| - Colombia
 
 307.Callicebus barbarabrownae /Blond Titi Monkey| - Brazil
 
@@ -616,7 +616,7 @@
 
 309.Callicebus medemi /Colombian Black-handed Titi| - Colombia
 
-310.Callicebus coimbrai /Coimbra-Filho’s Titi Monkey| - Brazil
+310.Callicebus coimbrai /Coimbra-Filhos Titi Monkey| - Brazil
 
 311.Chiropotes satanas /Black Bearded Saki| - Brazil
 
@@ -632,7 +632,7 @@
 
 317.Procolobus gordonorum /Udzungwa Red Colobus| - Tanzania
 
-318.Cebus kaapori /Ka’apor Capuchin| - Brazil 
+318.Cebus kaapori /Kaapor Capuchin| - Brazil 
 
 319.Leontopithecus chrysomelas /Golden-headed Lion Tamarin| - Brazil 
 
@@ -642,7 +642,7 @@
 
 322.Trachypithecus hatinhensis /Hatinh Langur| - Laos, Vietnam
 
-323.Procolobus preussi /Preuss’s Red Colobus| - Cameroon, Nigeria
+323.Procolobus preussi /Preusss Red Colobus| - Cameroon, Nigeria
 
 324.Ateles chamek /Chamek Spider Monkey| - Bolivia,  Brazil, Peru
 
@@ -666,7 +666,7 @@
 
 334.Cebus robustus /Crested Capuchin| - Brazil
 
-335.Chiropotes utahickae /Uta Hick’s Bearded Saki| - Brazil
+335.Chiropotes utahickae /Uta Hicks Bearded Saki| - Brazil
 
 336.Alouatta discolor /Spix's Red-handed Howler Monkey| - Brazil 
 
@@ -694,7 +694,7 @@
 
 348.Elephas maximus / Indian Elephant| - Bangladesh, Bhutan, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, Sri Lanka, Thailand, Vietnam
 
-349.Loxodonta africana  /African Elephant| - Angola, Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, Congo, Congo DR, C?te d'Ivoire, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia; Malawi; Mali; Mozambique; Namibia; Niger; Nigeria; Rwanda; Senegal; Sierra Leone, Somalia, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe, Burundi, Gambia, Mauritania, Swaziland
+349.Loxodonta africana  /African Elephant| - Angola, Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, Congo, Congo DR, C?te d'Ivoire, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe, Burundi, Gambia, Mauritania, Swaziland
 
 350.Allactaga tetradactyla /Four-toed Jerboa| - Egypt, Libya
 

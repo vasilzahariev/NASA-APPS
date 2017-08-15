@@ -1,0 +1,21 @@
+.menuI{
+  width: 16%;
+  height: 50%;
+  position: absolute;
+  display: block;
+  background: #FFFAFA;
+}
+
+#country{
+  width: 50%;
+}
+
+#animal{
+  width: 50%;
+}
+
+#encycloAnm{
+  margin-left: 900px;
+  position: absolute;
+  display: block;
+}
