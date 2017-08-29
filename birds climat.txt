@@ -1,0 +1,597 @@
+1.Aquila adalberti / Spanish Imperial Eagle \ - Morocco, Portugal, Spain, France, Gibraltar  
+
+2.Buteo galapagoensis / Galapagos Hawk \ - Ecuador 
+
+3.Buteo ridgwayi /Ridgway's Hawk \ - Dominican Republic, Haiti 
+
+4.Clanga clanga /Greater Spotted Eagle \ - Afghanistan, Albania, Armenia, Austria, Azerbaijan, Bangladesh, Belarus, Bhutan, Bosnia and Herzegovina, Bulgaria, Cambodia, China, Croatia, Denmark, Djibouti, Egypt, Eritrea, Estonia, Ethiopia, Finland, France, Georgia, Greece, Hong Kong, Hungary, India, Iran, Iraq, Israel, Italy, Kazakhstan, Kenya, North Korea, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Lithuania, Macao, Macedonia, Malaysia, Moldova, Mongolia, Montenegro, Myanmar, Nepal, Oman, Pakistan, Palestinian, Poland, Qatar, Romania, Russia, Saudi Arabia, Serbia, Slovakia, Slovenia, South Sudan, Sudan, Syria, Tajikistan, Thailand, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Vietnam, Yemen, Uzbekistan, Bahrain, Belgium, Cameroon, Chad, Cyprus, Gibraltar, Indonesia, Ireland, Japan, Jordan, South Korea, Libya, Luxembourg, Morocco, Netherlands, Portugal, Singapore, Spain, Switzerland, Tanzania, Tunisia, United Kingdom  
+
+5.Gyps rueppelli / Rueppell's Griffon \ - Algeria, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, C?te d'Ivoire, Djibouti, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Mali, Mauritania, Niger, Nigeria, Rwanda, Senegal, Somalia, South Sudan, Sudan, Tanzania, Togo, Uganda, Botswana, Congo, Egypt, Lesotho, Mozambique, Namibia, Portugal, Sierra Leone, South Africa, Spain, Zambia, Zimbabwe, Saudi Arabia
+
+6.Haliaeetus leucoryphus / Pallas's Fish-eagle \ - Afghanistan, Bangladesh, Bhutan, China, India, Iran, Kazakhstan, Kyrgyzstan, Mongolia, Myanmar, Nepal, Pakistan, Russia, Tajikistan, Turkmenistan, Uzbekistan, Cambodia, Finland, Iraq, Israel, Netherlands, Norway, Oman, Saudi Arabia, Ukraine, United Arab Emirates
+
+7.Haliaeetus pelagicus / Steller's Sea-eagle \ - China, USA, Japan, North Korea, South Korea, Russia
+
+8.Neophron percnopterus / Egyptian Vulture \ - Afghanistan, Albania, Algeria, Andorra, Angola, Armenia, Azerbaijan, Benin, Bulgaria, Burkina Faso, Cameroon, Cape Verde, Central African Republic, Chad, Cyprus, Djibouti, Egypt, Eritrea, Ethiopia, France, Georgia, Ghana, Gibraltar, Greece, Guinea, India, Iran, Iraq, Israel, Italy, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Libya, Macedonia, Mali, Malta, Mauritania, Morocco, Namibia, Nepal, Niger, Nigeria, Oman, Pakistan, Palestinian, Portugal, Russia, Saudi Arabia, Senegal, Somalia, South Sudan, Spain, Sudan, Syria, Tajikistan, Tanzania,Togo, Tunisia, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Western Sahara, Yemen, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Ukraine, South Africa, Austria, Bangladesh, Belgium, Botswana, Congo, Czech Republic, Denmark, Estonia, Finland, Gambia, Hungary, Mongolia, Mozambique, Myanmar, Norway, Poland, Qatar, Slovakia, Slovenia, Sri Lanka, Sweden, Switzerland, United Kingdom, Zimbabwe, China, C?te d'Ivoire, Guinea-Bissau, Uganda
+
+9.Anas chlorotis / Brown Teal \ - New Zealand
+
+10.Anas wyvilliana / Hawaiian Duck \ - USA
+
+11.Anser cygnoid /  	Swan Goose \ - Laos, China, Thailand, Turkmenistan, Uzbekistan,  Japan, Kazakhstan, North Korea, South Korea, Mongolia, Russia
+
+12.Anser erythropus / Lesser White-fronted Goose \ - Afghanistan, Albania, Austria, Belgium, Czech Republic, Denmark, Egypt, France, India, Ireland, Israel, Jordan, Myanmar, Oman, Pakistan, Spain, Switzerland, United Arab Emirates, United Kingdom, USA, Netherlands, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, China, Croatia, Estonia, Finland, Georgia, Germany, Greece, Hungary, Iran,Iraq, Japan, Kazakhstan, North Korea,South Korea, Latvia, Lithuania, Macedonia, Moldova, Mongolia, Montenegro, Norway, Poland, Romania, Russia, Serbia, Slovakia, Sweden, Syria, Tajikistan, Turkey, Turkmenistan, Ukraine, Uzbekistan
+
+13.Dendrocygna arborea / Black-billed Wood-duck \ - Anguilla, Barbados, Bermuda, Bonaire, Sint Eustatius and Saba, Cura?ao, Dominica, Grenada, Guadeloupe, Martinique, Sint Maarten, Antigua and Barbuda, Bahamas, Cayman Islands, Cuba, Dominican Republic, Haiti, Jamaica, Puerto Rico, Saint Kitts and Nevis, Turks and Caicos Islands, Virgin Islands
+
+14.Hymenolaimus malacorhynchos /  Blue Duck \ - New Zealand
+
+15.Marmaronetta angustirostris / Marbled Duck \ - Bulgaria, Burkina Faso, Georgia, Greece, Mauritania, Niger, Western Sahara, Albania, Bahrain, Bosnia and Herzegovina, Czech Republic, France, Germany, Hungary, Kuwait, Kyrgyzstan, Malta, Oman, Portugal, Qatar, Romania, Saudi Arabia, Sri Lanka, United Arab Emirates, Cape Verde, Cyprus, Macedonia, Afghanistan, Algeria, Armenia, Azerbaijan, Cameroon, Chad, China, Egypt, Gambia, India, Iran, Iraq, Israel, Italy, Jordan, Kazakhstan, Lebanon, Libya, Mali, Morocco, Nigeria, Pakistan, Palestinian, Russia, Senegal, Spain, Syria, Tajikistan, Tunisia, Turkey, Turkmenistan, Uzbekistan
+
+16.Mergus squamatus / Chinese Merganser \ - Vietnam, China, Japan, North Korea, South Korea, Myanmar, Russia, Thailand
+
+17.Oxyura leucocephala / White-headed Duck \ -  Croatia, Macedonia, Montenegro, Palestinian, Serbia, Albania, Austria, Belgium, Bosnia and Herzegovina, Denmark, Egypt, France, Germany, Italy, Libya, Malta, Netherlands, Poland, Portugal, Saudi Arabia, Slovakia, Slovenia, Switzerland, Hungary, Afghanistan, Algeria, Armenia, Azerbaijan, Bulgaria, China, Cyprus, Georgia, Greece, India, Iran, Iraq, Israel, Jordan, Kazakhstan, Kyrgyzstan, Mongolia, Morocco, Pakistan, Romania, Russia Spain, Syria, Tajikistan, Tunisia, Turkey, Turkmenistan, Ukraine, Uzbekistan
+
+18.Polysticta stelleri / Steller's Eider\ - Belgium, China, Denmark, France, Germany, Greenland, Iceland, Netherlands, United Kingdom, Estonia, Finland, Japan, Latvia, Lithuania, Norway, Poland, Russia, Sweden, USA
+
+19.Aerodramus bartschi / Mariana Swiftlet\ - Guam, Northern Mariana Islands, USA
+
+20.Amazilia castaneiventris /Chestnut-bellied Hummingbird\  - Colombia
+
+21.Antrostomus noctitherus / Puerto Rican Nightjar\ - Puerto Rico
+
+22.Caprimulgus concretus / Bonaparte's Nightjar \ - Brune, Indonesia, Malaysia
+
+23.Chaetocercus berlepschi / Esmeraldas Woodstar \ - Ecuador
+
+24.Eleothreptus candicans / White-winged Nightjar \ - Bolivia, Brazil, Paraguay
+
+25.Eurostopodus diabolicus / Heinrich's Nightjar \ - Indonesia
+
+26.Glaucis dohrnii / Hook-billed Hermit \ - Brazil
+
+27.Calidris tenuirostris / Great Knot \ - Bahrain, Denmark, Djibouti, Germany, Ireland, Israel, Mauritius, Morocco, Netherlands, New Caledonia, New Zealand, Norway, Qatar, Seychelles, Spain, United Kingdom, USA, Yemen, Australia, Bangladesh, Brunei, China, Guam, India, Indonesia, Iran, Japan, North Korea, South Korea, Kuwait, Malaysia, Micronesia, Myanmar, Northern Mariana Islands, Oman, Pakistan, Palau, Papua New Guinea, Philippines, Russia, Saudi Arabia, Singapore, Sri Lanka, Taiwan, Thailand, Timor-Leste, United Arab Emirates, Vietnam
+
+28.Charadrius obscurus / Southern Red-breasted Plover \ - New Zealand
+
+29.Himantopus novaezelandiae / Black Stilt \ - New Zealand
+
+30.Larus bulleri / Black-billed Gull \ - New Zealand
+
+31.Larus relictus /  	Relict Gull \ - Bulgaria, Japan, Kyrgyzstan, Vietnam, China, Kazakhstan, South Korea, Mongolia, Russia
+
+32.Numenius borealis / Eskimo Curlew \ - Argentina, Barbados, Brazil, Canada, Chile, Mexico, Paraguay, USA, Uruguay
+
+33.Numenius madagascariensis / Far Eastern Curlew \ - Australia, Brunei, China, Fiji, Guam, Hong Kong, Indonesia, Japan, North Korea, South Korea, Malaysia, Micronesia, Mongolia, New Zealand, Northern Mariana Islands, Palau, Papua New Guinea, Philippines, Russia, Singapore, Taiwan, Thailand, Timor-Leste, Vietnam
+
+34.Numenius tahitiensis / Bristle-thighed Curlew \ - Indonesia, Japan, Papua New Guinea, Philippines, American Samoa, Chile, Cook Islands, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Micronesia,Nauru, New Zealand, Niue, Northern Mariana Islands, Pitcairn, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, USA Wallis and Futuna
+
+35.Numenius tenuirostris / Slender-billed Curlew \ - Albania, Algeria, Azerbaijan, Bulgaria, Croatia, Greece, Hungary, Iran, Iraq, Italy, Kazakhstan, Macedonia, Montenegro, Morocco, Romania, Russia, Saudi Arabia, Serbia, Tunisia, Turkey, Ukraine, Uzbekistan, Yemen, Austria, Bosnia and Herzegovina, Canada, Cyprus, Egypt, France, Germany, Israel, Kuwait, Malta, Netherlands, Palestinia, Poland, Portugal, Spain, Switzerland, United Kingdom, Czech Republic, Japan, Libya
+
+36.Pedionomus torquatus /  	Plains-wanderer \ - Australia
+
+37.Rissa brevirostris / Red-legged Kittiwake \ - Japan, Canada, Russia, USA
+
+38.Rostratula australis / Australian Painted-snipe \ - Australia
+ 
+39.Rynchops albicollis / Indian Skimmer \ - Iran, Oman, Thailand, Cambodia, Bangladesh; India, Myanmar, Nepal, Pakistan, Vietnam
+
+40.Saundersilarus saundersi / Saunders's Gull \ - China, Japan, North Korea, South Korea, Macao, Russia, Taiwan, Vietnam
+
+41.Scolopax mira / Amami Woodcock \ - Japan
+
+42.Sterna acuticauda / Black-bellied Tern \ - Bangladesh, Cambodia, India, Laos, Myanmar, Nepal, Pakistan, Thailand, Vietnam, China
+
+43.Sternula nereis /  Fairy Tern \ - Australia, New Caledonia, New Zealand
+
+44.Synthliboramphus craveri / Craveri's Murrelet \ - Mexico, USA
+
+45.Synthliboramphus hypoleucus / Guadalupe Murrelet \ - Canada, Mexico, USA
+
+46.Synthliboramphus scrippsi / Scripps's murrelet \ - Mexico, USA
+
+47.Synthliboramphus wumizusume / Japanese Murrelet \ - Japan, South Korea, Russia, China
+
+48.Thalasseus bernsteini / Chinese Crested Tern \ - China, Indonesia, South Korea, Malaysia, Philippines, Thailand
+
+49.Thinornis cucullatus /  	Hooded Plover \ - Australia
+
+50.Tringa guttifer / Spotted Greenshank \ - Guam, Sri Lanka, Bangladesh, Brunei, Cambodia, China, India, Indonesia, Japan, North Korea, South Korea, Malaysia, Myanmar, Philippines, Russia, Singapore, Thailand, Vietnam
+
+51.Turnix hottentottus / Hottentot Buttonquail \ - South Africa
+
+52.Vanellus gregarius / Sociable Lapwing \ - Austria, Bahrain, Belarus, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Egypt, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Kuwait, Luxembourg, Maldives, Malta, Morocco, Netherlands, Poland, Portugal, Romania, Seychelles, Slovakia, Slovenia, Somalia, Spain, Sweden, Switzerland, United Kingdom, Yemen, Cameroon, Central African Republic, Chad, Eritrea, Ethiopia, Kyrgyzstan, Afghanistan, Armenia, Azerbaijan, Georgia, India, Iran, Iraq, Israel, Jordan, Kazakhstan, Lebanon, Oman, Pakistan, Palestinia, Qatar, Russia, Saudi Arabia, Sri Lanka, Sudan, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan
+
+53.Ciconia boyciana / Oriental Stork\ - China, Japan, South Korea, North Korea, Russia, Bangladesh, India, Mongolia, Myanmar, Philippines
+
+54.Ciconia stormi /Storm's Stork\ - Brunei, Indonesia, Malaysia, Myanmar, Thailand
+
+55.Leptoptilos javanicus /Lesser Adjutant\ - Bhutan, Singapore, China, Bangladesh, Brunei, Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, Sri Lanka, Thailand, Vietnam
+
+56.Claravis geoffroyi /Purple-winged Ground-dove\ - Argentina, Brazil, Paraguay
+
+57.Columba argentina / Silvery Pigeon\ - Indonesia, Malaysia
+
+58.Columba elphinstonii /Nilgiri wood pigeon \ - India
+
+59.Columba eversmanni / Yellow-eyed Pigeon\ - Afghanistan; China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, Uzbekistan
+
+60.Columbina cyanopis / Blue-eyed Ground-dove\ - Brazil
+
+61.Didunculus strigirostris /Tooth-billed Pigeon \ - Samoa
+
+62.Ducula carola /Spotted Imperial-pigeon\ - Philippines
+
+63.Gallicolumba crinigera /Mindanao Bleeding-heart\ - Philippines
+
+64.Gallicolumba keayi /Negros Bleeding-heart\ - Philippines
+
+65.Gallicolumba menagei / Sulu Bleeding-heart\ - Philippines
+
+66.Gallicolumba platenae /Mindoro Bleeding-heart\ - Philippines
+
+67.Geotrygon caniceps / Grey-headed Quail-dove \ - Cuba
+
+68.Phapitreron brunneiceps /Mindanao brown dove\ - Philippines
+
+69.Starnoenas cyanocephala / Blue-headed Quail-dove \ - Cuba
+
+70.Alopecoenas rubescens /Marquesas Ground-dove\ - French Polynesia
+
+71.Hemiphaga chathamensis /Chatham Pigeon\ - New Zealand
+
+72.Carpococcyx viridis / Sumatran Ground-cuckoo\ - Indonesia
+
+73.Centropus chlororhynchos /Green-billed Coucal\ - Sri Lanka
+
+74.Centropus nigrorufus / Javan Coucal \ - Indonesia
+
+75.Centropus rectunguis / Short-toed Coucal \ - Brunei, Indonesia, Malaysia, Thailand
+
+76.Coccyzus rufigularis / Bay-breasted Cuckoo \ - Dominican Republic, Haiti
+
+77.Phaenicophaeus pyrrhocephalus / Red-faced Malkoha \ - India, Sri Lanka
+
+78.Falco cherrug / Saker Falcon\ - Afghanistan, Armenia, Austria, Azerbaijan, Bahrain, Bulgaria, China, Croatia, Cyprus, Czech Republic, Egypt, Eritrea, Ethiopia, Georgia, Greece, Hungary, India, Iran, Iraq, Israel, Italy, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Libya, Macedonia, Mali, Malta, Mauritania, Moldova, Mongolia, Montenegro, Nepal, Oman, Pakistan, Palestinia, Romania, Russia, Saudi Arabia, Serbia, Slovakia, South Sudan, Sudan, Syria, Tajikistan, Tunisia, Turkey, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Albania, Algeria, Bangladesh, Belarus, Bhutan, Bosnia and Herzegovina, Burundi, Cameroon, Denmark, Djibouti, Estonia, Finland, France, Gibraltar, South Korea, Latvia, Lithuania, Morocco, Poland, Portugal, Senegal, Spain, Sweden, Tanzania, Uganda, Turkmenistan, Germany, Chad, Niger, Qatar
+
+79.Falco hypoleucos / Grey Falcon\ - Australia, Papua New Guinea
+
+80.Arborophila ardens / Hainan partridge\ - China
+
+81.Arborophila charltonii /Chestnut-necklaced Partridge\ - Indonesia, Malaysia, Myanmar, Thailand
+
+82.Crax alberti / Blue-billed Curassow\ - Colombia
+
+83.Crax blumenbachii / Red-billed Curassow \ - Brazil
+
+84.Crax pinima / Belem Curassow \ - Brazil
+
+85.Crax rubra / Great Curassow \ - Belize, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+
+86.Eulipoa wallacei / Moluccan Scrubfowl \ - Indonesia
+
+87.Leipoa ocellata / Malleefowl \ - Australia
+
+88.Lophura edwardsi / Edwards's Pheasant \ - Vietnam
+
+89.Macrocephalon maleo / Maleo, Gray's Brush-turkey \ - Indonesia
+
+90.Megapodius layardi / Vanuatu Scrubfowl \ - Vanuatu
+
+91.Pavo muticus / Green Peafowl \ - Bangladesh, India, Malaysia,  Myanmar, Thailand, Vietnam, Cambodia, China, Indonesia, Laos
+
+92.Penelope ochrogaster / Chestnut-bellied Guan \ - Brazil
+
+93.Penelopina nigra / Highland Guan \ - Guatemala, Honduras, Mexico, Nicaragua, El Salvador
+
+94.Perdicula manipurensis / Manipur Bush-quail \ - India
+
+95.Pipile jacutinga / Black-fronted Piping-guan \ - Argentina, Brazil, Paraguay
+
+96.Pipile pipile / Trinidad Piping-guan \ - Trinidad and Tobago
+
+97.Polyplectron napoleonis / Palawan Peacock-pheasant \ - Philippines
+
+98.Syrmaticus reevesii /  	Reeves's Pheasant \ - China
+
+99.Tragopan caboti / Cabot's Tragopan \ - China
+
+100.Tympanuchus cupido / Greater Prairie-chicken \ - Canada, USA
+
+101.Aepypodius bruijnii / 	Waigeo Brush-turkey\ - Indonesia
+
+102.Antigone vipio / White-naped Crane\ - China, Japan, North Korea,South Korea, Mongolia; Russia, Kazakhstan
+
+103.Coturnicops exquisitus / Swinhoe's Rail\ - China, Japan, North Korea,South Korea, Mongolia; Russia
+
+104.Cyanolimnas cerverai / Zapata Rail\ - Cuba
+
+105.Fulica alai / Hawaiian Coot\ - USA
+
+106.Grus americana /Whooping Crane\ - Canada, USA, Mexico
+
+107.Grus japonensis / Red-crowned Crane \ - China, Japan, North Korea,South Korea, Mongolia; Russia
+
+108.Grus monacha / Hooded Crane \ - China, Japan, North Korea,South Korea, Mongolia; Russia, Kazakhstan
+
+109.Gymnocrex rosenbergii /  Blue-faced Rail \ - Indonesia
+
+110.Laterallus levraudi / Rusty-flanked Crake \ - Venezuela
+
+111.Laterallus xenopterus / Rufous-faced Crake \ - Bolivia,  Brazil, Paraguay
+
+112.Leucogeranus leucogeranus / Siberian Crane\ - Azerbaijan, China, Iran, Kazakhstan, Mongolia, Russia, Uzbekistan, Afghanistan, India, Pakistan, Turkmenistan, Japan, Jordan, South Korea
+
+113.Porzana spiloptera / Dot-winged Crake\ - Argentina, Brazil, Uruguay
+
+114.Rallus antarcticus / 	Austral Rail\ - Argentina; Chile
+
+115.Acrocephalus griseldis /  	Basra Reed-warbler \ - Botswana, Egypt, Syria, Ethiopia, Iran, Iraq, Israel, Kenya, Kuwait, Malawi, Mozambique, Saudi Arabia, Somalia, South Sudan, Sudan, Tanzania, Uganda
+
+116.Acrocephalus orinus / Large-billed Reed-warbler \ - Afghanistan, Myanmar, Tajikistan, India, Kazakhstan, Pakistan, Thailand
+
+117. Acrocephalus tangorum /  	White-browed Reed-warbler \ - Cambodia, China, Laos, Malaysia, Myanmar, Russia, Thailand, Vietnam, South Korea
+
+118.Aethopyga duyvenbodei / Elegant Sunbird \ - Indonesia
+
+119.Agelaius tricolor / Tricolored Blackbird \ - Mexico, USA
+
+120.Agelaius xanthomus / Yellow-shouldered Blackbird \ - Puerto Rico
+
+121.Alectrurus risora / Strange-tailed Tyrant\ - Argentina, Brazil, Paraguay, Uruguay
+
+122. Alectrurus tricolor /Cock-tailed Tyrant \ - Argentina, Bolivia, Brazil, Paraguay
+
+123.Amandava formosa / Green Avadavat \ - India, Pakistan
+
+124.Ammodramus caudacutus / Saltmarsh Sparrow \ - USA, Canada
+
+125.Anthus nattereri / Ochre-breasted Pipit \ - Argentina, Brazil, Paraguay, Uruguay
+
+126.Apalis chariessa / White-winged Apalis \ - Malawi, Mozambique, Tanzania, Kenya
+
+127.Aphanotriccus capitalis / Tawny-chested Flycatcher \ - Costa Rica, Nicaragua
+
+128.Aphelocoma coerulescens / Florida Scrub-jay \ - USA
+
+129.Aphelocoma insularis /  Western Scrub-jay \ - Mexico, USA
+
+130.Artisornis moreaui /  	Long-billed Forest-warbler \ - Tanzania
+
+131.Atrichornis clamosus / Noisy Scrub-bird \ - Australia
+
+132.Atrichornis rufescens / Rufous Scrub-bird \ - Australia
+
+133.Automolus lammi / Pernambuco Foliage-gleaner \ - Brazil
+
+134.Biatas nigropectus / White-bearded Antshrike \ - Argentina, Brazil
+
+135.Bradypterus sylvaticus / Knysna Warbler \ - South Africa
+
+136.Calicalicus rufocarpalis / Red-shouldered Vanga \ - Madagascar
+
+137.Callaeas cinereus /  	South Island Kokako \ - New Zealand
+
+138.Calyptophilus frugivorus / Eastern Chat-tanager \ - Dominican Republic, Haiti
+
+139.Calyptura cristata /  	Kinglet Calyptura \ - Brazil
+
+140.Spinus siemiradzkii / Saffron Siskin \ - Ecuador, Peru 
+
+141.Carduelis yarrellii / Yellow-faced Siskin \ - Brazil, Venezuela
+
+142.Carpornis melanocephala / Black-headed Berryeater \ - Brazil
+
+143.Catharopeza bishopi / Whistling Warbler \ - Saint Vincent and the Grenadines
+
+144.Catharus bicknelli / Bicknell's Thrush \ - Canada, Cuba, Dominican Republic, Haiti, Jamaica, Martinique, Puerto Rico, USA
+
+145.Chaetornis striata / Bristled Grassbird \ - Bangladesh, India, Nepal, Pakistan
+
+146.Chasiempis ibidis / Oahu Elepaio \ - USA
+
+147.Chasiempis sclateri / Kauai Elepaio \ - USA
+
+148.Chloropsis flavipennis / Philippine Leafbird \ - Philippines
+
+149.Clytorhynchus sanctaecrucis /  Nendo Shrikebill \ - Solomon Islands
+
+150.Lamprotornis iris /Emerald Starling\ - Cote d'Ivoire, Guinea, Sierra Leone, Mali
+
+151.Conothraupis mesoleuca / Cone-billed Tanager \ - Brazil
+
+152.Copsychus cebuensis / Black Shama \ - Philippines
+
+153.Coracina ostenta / White-winged Cicadabird \ - Philippines
+
+154.Coracina typica / Mauritius Cuckoo-shrike \ - Mauritius
+
+155.Corvus kubaryi / Mariana Crow \ - Northern Mariana Islands, Guam
+
+156.Corvus leucognaphalus / White-necked Crow \ - Dominican Republic, Haiti, USA, Puerto Rico
+
+157.Corvus unicolor / Banggai Crow \ - Indonesia
+
+158.Cotinga maculata / Banded Cotinga \ - Brazil
+
+159.Cotinga ridgwayi / Turquoise Cotinga \ - Costa Rica, Panama
+
+160.Cranioleuca muelleri / Scaled Spinetail \ - Brazil
+
+161.Culicivora caudacuta /  Sharp-tailed Tyran \ - Argentina, Bolivia, Brazil, Paraguay, Uruguay
+
+162.Dasycrotapha speciosa / Flame-templed Babbler \ - Philippines
+
+163.Dasyornis brachypterus / Eastern Bristlebird \ - Australia
+
+164.Dendrocolaptes hoffmannsi / Hoffmanns's Woodcreeper \ - Brazil
+
+165.Dicaeum haematostictum / Black-belted Flowerpecker \ - Philippines
+
+166. Dysithamnus plumbeus / Plumbeous Antvireo \ - Brazil
+
+167.Eleoscytalopus psychopompus / Bahia Tapaculo \ - Brazil
+
+168.Emberiza aureola / Yellow-breasted Bunting \ - Bangladesh,Cambodia,China,Finland,India,Japan, Kazakhstan, North Korea, South Korea, Laos, Malaysia, Mongolia, Myanmar, Nepal, Oman, Pakistan, Russia, Singapore, Thailand, Vietnam,Bahrain, Belarus, Belgium, Brunei, Cyprus, Czech Republic, Denmark, Egypt, Estonia, France, Germany, Greece, Iran, Ireland, Israel, Italy, Jordan, Latvia, Malta, Netherlands, Norway, Philippines, Poland, Portugal, Saudi Arabia, Spain, Sweden, Syria, Turkey, United Arab Emirates, United Kingdom, USA
+
+169.Emberiza jankowskii / Jankowski's Bunting \ - China, North Korea, Russia
+
+170.Emberiza sulphurata / Yellow Bunting \ - China, Japan, North Korea, South Korea, Philippines
+
+171.Erythrura regia / Royal parrotfinch \ - Republic of Vanuatu
+
+172.Eurylaimus samarensis / Visayan Wattled Broadbill \ - Philippines
+
+173.Eurylaimus steerii /Sarcophanops steerii \ - Philippines
+
+174.Eutrichomyias rowleyi / Cerulean Paradise-flycatcher \ - Indonesia
+
+175.Ficedula basilanica /  	Little Slaty Flycatcher \ - Philippines
+
+176.Ficedula platenae / Palawan Flycatcher \ - Philippines
+
+177.Formicivora erythronotos /  	Black-hooded Antwren \ - Brazil
+
+178.Formicivora littoralis / Restinga antwren \ - Brazil
+
+179.Garrulax cinereifrons / Ashy-headed Laughingthrush \ - Sri Lanka
+
+180.Garrulus lidthi /  Amami Jay \ - Japan
+
+181.Geositta poeciloptera / Campo Miner \ - Bolivia, Brazil, Paraguay
+
+182.Geothlypis beldingi / Belding's Yellowthroat \ - Mexico
+
+183.Geothlypis flavovelata /  	Altamira Yellowthroat \ - Mexico
+
+184.Grantiella picta /  	Painted Honeyeater \ - Australia
+
+185.Gubernatrix cristata /  Yellow Cardinal \ - Brazil; Uruguay, Argentina
+
+186.Gymnomyza samoensis / Mao bird \ - Samoa
+
+187.Habia atrimaxillaris / Black-cheeked Ant-tanager \ - Costa Rica
+
+188.Hemignathus flavus /Oahu Amakihi\ - USA
+
+189.Hemignathus kauaiensis /  	Kauai Amakihi \ - USA
+
+190.Hemignathus lucidus / Oahu Nukupuu \ - USA
+
+191.Hemignathus munroi / Akiapolaau \ - USA
+
+192.Hemignathus parvus /Anianiau \ - USA
+
+193.Hemitriccus furcatus /Fork-tailed Tody-tyrant \ - Brazil
+
+194.Hemitriccus kaempferi / Kaempfer's Tody-tyrant \ - Brazil
+
+195.Herpsilochmus pectoralis / Pectoral Antwren \ - Brazil
+
+196.Herpsilochmus pileatus /  	Bahia Antwren \ - Brazil
+
+197.Hypothymis coelestis / Celestial Monarch \ - Philippines
+
+198.Icterus bonana / Martinique Oriole \ - Martinique
+
+199.Icterus northropi /  	Bahama Oriole \ - Bahamas
+
+200.Ixos siquijorensis / Streak-breasted Bulbul \ - Philippines
+
+201.Locustella pleskei / Pleske's Grasshopper-warbler \ - China, Japan, North Korea, South Korea, Russia, Vietnam
+
+202.Loxops coccineus /  Hawaii Akepa \ - USA
+
+203.Manorina melanotis /  	Black-eared Miner \ - Australia
+
+204.Melanospiza richardsoni / St Lucia Black Finch \ - Saint Lucia
+
+205.Merulaxis stresemanni / Stresemann's Bristlefront \ - Brazil
+
+206.Micromacronus leytensis / Visayan Miniature Babbler \ - Philippines
+
+207.Mohoua ochrocephala / Yellowhead bird \ - New Zealand
+
+208.Muscicapa randi / Ashy-breasted Flycatcher \ - Philippines
+
+209.Myadestes lanaiensis / Olomao \ - USA
+
+210.Myadestes obscurus / Oma'o \ - USA
+
+211.Myrmeciza ruficauda /  	Scalloped Antbird \ - Brazil
+
+212.Myrmotherula fluminensis / Silvery-flanked Antwren \ - Brazil
+
+213.Myrmotherula minor / Salvadori's Antwren \ - Brazil
+
+214.Myrmotherula urosticta / Band-tailed Antwren \ - Brazil
+
+215.Neopelma aurifrons / Wied's Tyrant-manakin \ - Brazil
+
+216.Onychorhynchus swainsoni / Atlantic Royal Flycatcher \ - Brazil
+
+217.Oreomystis bairdi / Akikiki \ - USA
+
+218.Oriolus isabellae /  	Isabela Oriole \ - Philippines
+
+219.Oryzoborus maximiliani / Great-billed Seed-finch \ - Bolivia,  Brazil, French Guiana, Guyana, Suriname, Venezuela
+
+220.Pachycephala rufogularis / Red-lored Whistler \ - Australia
+
+221.Padda oryzivora / Java Sparrow \ - Indonesia, Brunei, Christmas Island, Fiji, Malaysia, Mexico, Philippines, Puerto Rico, Sri Lanka, USA
+
+222.Palmeria dolei /  	Akohekohe \ - USA
+
+223.Paradoxornis flavirostris / Black-breasted Parrotbill \ - India, Bangladesh
+
+224.Pardalotus quadragintus / Forty-spotted Pardalote \ - Australia
+
+225.Paroreomyza maculata / Oahu Alauahio \ - USA
+
+226.Paroreomyza montana / Maui Alauahio \ - USA
+ 
+227.Parus nuchalis / White-naped Tit \ - India
+
+228.Pellorneum palustre / Marsh Babbler \ - Bangladesh, India
+
+229.Phylloscartes kronei / Restinga Tyrannulet \ - Brazil
+
+230.Phylloscopus hainanus / Hainan Leaf-warbler \ - China
+
+231.Phylloscopus ijimae / Ijima's Leaf-warbler \ - Japan, Philippines, China
+ 
+232.Phytotoma raimondii / Peruvian Plantcutter \ - Peru
+
+233.Pitta nympha / Fairy Pitta \ - Brunei, China, Japan, North Korea, South  Korea, Malaysia, Vietnam, Indonesia, Thailand
+
+234.Pitta steerii / Azure-breasted Pitta \ - Philippines
+
+235.Platyrinchus leucoryphus / Russet-winged Spadebill \ - Argentina, Brazil, Paraguay
+
+236.Ploceus megarhynchus / Finn's Weaver \ - India, Nepal
+
+237.Pomarea mendozae / Marquesas Monarch \ - French Polynesia
+
+238.Poospiza cinerea / Cinereous Warbling-finch \ - Brazil
+
+239.Prinia cinereocapilla / Grey-crowned Prinia \ - Bhutan, India, Nepal
+
+240.Procnias nudicollis / Bare-throated Bellbird \ - Argentina, Brazil, Paraguay
+
+241.Psittirostra psittacea / Ou bird \ - USA
+
+242.Pycnonotus taivanus / Styan's Bulbul \ - China
+
+243.Pycnonotus xantholaemus / Yellow-throated Bulbul \ - India
+
+244.Pyriglena atra /Fringe-backed Fire-eye \ - Brazil
+
+245.Ramphocinclus brachyurus / White-breasted Thrasher \ - Martinique, Saint Lucia
+
+246.Rhinomyias albigularis / White-throated Jungle-flycatcher \ - Philippines
+
+247.Cyornis brunneatus /  	Brown-chested Jungle-flycatcher \ - China, Malaysia, Singapore, Thailand, Brunei
+
+248.Robsonius rabori / Cordillera Ground-warbler \ - Philippines
+
+249.Saxicola macrorhynchus / White-browed Bushchat \ - India, Pakistan, Afghanistan
+
+250.Serinus syriacus / Syrian Serin \ - Egypt, Israel, Jordan, Lebanon, Palestinia, Syria
+
+251.Sporophila cinnamomea / Chestnut Seedeater \ - Argentina, Brazil, Paraguay, Uruguay
+
+252.Sporophila falcirostris / Temminck's Seedeater \ - Argentina, Brazil, Paraguay
+
+253.Sporophila frontalis / Buffy-fronted Seedeater \ - Argentina, Brazil, Paraguay
+
+254.Sporophila palustris / Marsh Seedeater \ - Argentina, Brazil, Paraguay, Uruguay
+
+255.Stipiturus mallee /  Mallee Emu-wren \ - Australia
+
+256.Sturnella defilippii /  Pampas Meadowlark \ - Argentina, Brazil, Uruguay
+
+257.Sturnus albofrontatus / White-faced Starling \ - Sri Lanka
+
+258.Acridotheres melanopterus /Black-winged Myna \ - Indonesia
+
+259.Stymphalornis acutirostris /Parana Antwren\ - Brazil
+
+260.Tachycineta cyaneoviridis /Bahama Swallow\ - Bahamas, Cuba, USA
+
+261.Tangara fastuosa / Seven-colored Tanager\ - Brazil
+
+262.Tangara peruviana / Black-backed Tanager \ - Brazil
+
+263.Thripophaga macroura /Striated Softtail \ - Brazil
+
+264.Tijuca condita /Grey-winged Cotinga \ - Brazil
+
+265.Torreornis inexpectata / Zapata Sparrow \ - Cuba
+
+266.Toxostoma bendirei /Bendire's Thrasher\ - Mexico, USA
+
+267.Troglodytes cobbi /Cobb's Wren\ - Malvinas
+
+268.Turdoides longirostris /Slender-billed Babbler\ - Bangladesh, India, Nepal
+
+269.Turdus celaenops / Izu Thrush\ - Japan
+
+270.Turdus feae /Grey-sided Thrush \ - China, India, Laos,  Myanmar, Thailand
+
+271.Turdus lherminieri /Forest Thrush\ - Dominica, Guadeloupe, Montserrat, Saint Lucia
+
+272.Turdus menachensis /Yemen Thrush\ - Saudi Arabia, Yemen
+
+273.Tyrannus cubensis /Giant Kingbird\ - Cuba, Bahamas, Turks and Caicos Islands, Mexico, Haiti
+
+274.Urocissa ornata /Sri Lanka Blue Magpie\ - Sri Lanka
+
+275.Vermivora bachmanii /  	Bachman's Warbler\ - Cuba, USA
+
+276.Vestiaria coccinea / 	Iiwi \ - USA
+
+277.Vireo atricapilla /Black-capped Vireo\ - Mexico, USA
+
+278.Xanthomyza phrygia /Regent Honeyeater\- Australia
+
+279.Xanthopsar flavus / Saffron-cowled Blackbird \ - Argentina, Brazil, Paraguay, Uruguay
+
+280.Xipholena atropurpurea /White-winged Cotinga\ - Brazil
+
+281.Xolmis dominicanus /Black-and-white Monjita\ - Argentina, Brazil, Uruguay
+
+282.Geokichla cinerea  /Ashy Thrush \ - Philippines
+
+283.Geokichla guttata / Spotted Ground-thrush\ - Congo, Kenya, Malawi, Mozambique, South Africa, South Sudan, Sudan, Tanzania
+
+284.Zosterops samoensis / 	Samoan White-eye\ - Samoa
+
+285.Progne murphyi /Peruvian Martin\ - Peru
+
+286.Egretta eulophotes /Chinese Egret\ - Brunei, China, Indonesia, Japan, North Korea, South Korea, Malaysia, Philippines, Russia, Singapore, Thailand, Vietnam
+
+287.Geronticus eremita / 	Northern Bald Ibis \ - Algeria, Eritrea, Jordan, Morocco, Saudi Arabia, Syria,Yemen, Iraq, Ethiopia, Israel, Senegal, Sudan, Switzerland,Turkey, Cape Verde, Germany, Mali, Mauritania, Montenegro, Portugal, Serbia, Somalia, Spain
+
+288.Gorsachius goisagi /Japanese Night-heron\ - China, Indonesia, Japan, South Korea, Philippines, Russia, Brunei, Palau, Vietnam
+
+289.Gorsachius magnificus /White-eared Night-heron\ - China, Vietnam
+
+290.Pelecanus crispus / Dalmatian Pelican\ - Afghanistan, Albania, Armenia, Azerbaijan, Bulgaria, China, Egypt, Georgia, Greece, India, Iran, Iraq, Israel, Kazakhstan, Kyrgyzstan, Lebanon, Moldova, Mongolia, Montenegro, Pakistan, Romania, Russia, Syria, Tajikistan, Turkey, Turkmenistan, Ukraine, Uzbekistan, Bangladesh, Bosnia and Herzegovina, Croatia, Germany, Algeria, Cyprus, Czech Republic, Italy, Japan, South Korea, Kuwait, Latvia, Norway, Oman, Poland, Slovakia, Spain, United Arab Emirates, Western Sahara, Serbia, Sri Lanka
+
+291.Platalea minor / Black-faced Spoonbill\ - Cambodia, China, Japan, North Korea, South Korea, Philippines, Russia, Thailand, Vietnam, Brunei
+
+292.Capito wallacei / Scarlet-banded Barbet \ - Peru
+
+293.Celeus tinnunculus /Atlantic Black-breasted Woodpecker\ - Brazil
+
+294.Chrysocolaptes xanthocephalus / 	Yellow-faced Flameback\ - Philippines
+
+295.Colaptes fernandinae /Fernandina's Flicker\ - Cuba
+
+296.Dendrocopos noguchii /Okinawa Woodpecker\ - Japan
+
+297.Poliocephalus rufopectus /New Zealand Grebe\ - New Zealand
+
+298.Eudyptes pachyrhynchus / 	Fiordland Penguin\ - Australia, New Zealand
+
+299.
