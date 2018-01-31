@@ -1,0 +1,11 @@
+Top 10 countries pollutants:
+1. China - 10151 MtCO2
+2. USA - 5312 MtCO2
+3. India - 2431 MtCO2
+4. Russia - 1635 MtCO2
+5. Japan - 1209 MtCO2
+6. Germany - 802 MtCO2
+7. Iran - 656 MtCO2
+8. Saudi Arabia - 634 MtCO2
+9. South Korea - 595 MtCO2
+10. Kanada - 563 MtCO2
