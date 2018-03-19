@@ -2,7 +2,21 @@
 	<head>
 		<title>Earth!</title>
 		<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
+<div class="navbar">
+      <a href="index.html">Home</a>
+        <div class="dropdown">
+        <button class="dropbtn">News 
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div> 
+      <a href="#news">Contacts</a>
+    </div>
 	<form class="menuI" style="border: 1px solid black;">
 		<input type="button" id="but" value="Animals">
 		<input type="button" id="but2" value="Climate">
@@ -18,8 +32,20 @@
 		</div>
 
 	</form>
-	<div id="encycloAnm">
+	<div id="encycloAnm" style="display:none;">
 			<h1 id="zagl"><img id="anmImg"/></h1>
+			<h3 id="anmInfo"></h3>
+			<h3 id="anmCon"></h3>
+	</div>
+	<div id="encycloCon" style="display:none;">
+			<h1 id="zaglC"></h1>
+			<h3 id="ConanmInfo"></h3>
+			<h3 id="ConbirdInfo"></h3>
+	</div>
+	<div id="encycloBird" style="display:none;">
+			<h1 id="zaglB"></h1>
+			<h3 id="birdInfo"></h3>
+			<h3 id="ConbirdInfo"></h3>
 	</div>
 	<body onload="InitDemo();">
 		<canvas id="game-surface" width="800" height="600">
